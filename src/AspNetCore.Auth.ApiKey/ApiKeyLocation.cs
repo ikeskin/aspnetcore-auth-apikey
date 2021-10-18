@@ -1,7 +1,7 @@
 ﻿namespace AspNetCore.Auth.ApiKey
 {
     /// <summary>
-    /// 
+    /// Key location
     /// </summary>
     public enum ApiKeyLocation
     {
