@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Ilyas Keskin</Authors>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ikeskin/aspnetcore-auth-apikey</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>apikey authentication authorization webapi</PackageTags>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
